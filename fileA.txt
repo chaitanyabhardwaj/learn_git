@@ -1,2 +1,6 @@
 feature#1
+<<<<<<< HEAD
 feature#4
+=======
+feature#3
+>>>>>>> b46b64c... Modified fileA.txt in featureZ branch
