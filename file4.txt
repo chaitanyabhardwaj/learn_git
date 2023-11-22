@@ -1,1 +1,2 @@
 Creating new file 4 in master branch
+Changes in master branch after changes in feature1 branch
