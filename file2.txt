@@ -1,1 +1,2 @@
 This is file 2
+Changes made in master branch after changes in develop branch
