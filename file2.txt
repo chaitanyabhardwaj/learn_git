@@ -1,4 +1,9 @@
 This is file 2
+<<<<<<< HEAD
 Changes made in master branch after changes in develop branch
 Change 2 made in master branch after change 1 in master branch
+=======
+The changes we made in develop branch
+Change 2 in develop branch after change 2 in master branch
+>>>>>>> feature1
 
